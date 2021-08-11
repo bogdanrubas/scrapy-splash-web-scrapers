@@ -1,0 +1,4 @@
+Scrapy==2.3.0
+scrapy-splash == 0.7.2
+requests==2.24.0
+mariadb
